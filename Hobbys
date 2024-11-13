@@ -1,0 +1,3 @@
+import random
+hobbys = ["шахматы","читать"]
+print(random.choice(hobbys))
